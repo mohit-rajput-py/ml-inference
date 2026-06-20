@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+.env/
+.env
+
+# Streamlit files
+.streamlit/
+
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
